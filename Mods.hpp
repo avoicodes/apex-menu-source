@@ -1,3 +1,4 @@
+//Credits: Colossal, Pubert, anyone else i didnt mention
 #pragma once
 
 #include <utility>
@@ -1138,3 +1139,4 @@ public:
     }
 
 };
+
